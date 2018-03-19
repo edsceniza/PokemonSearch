@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PokemonSearch</string>
+    <string name="pokemon_name">Enter a pokemon</string>
+    <string name="search">SEARCH</string>
+    <string name="pokemon_search">Search for any pokemon. Gotta search \'em all!</string>
+    <string name="poke_stats">Stats</string>
+    <string name="poke_abilities">Abilities</string>
+    <string name="poke_types">Types</string>
+</resources>
